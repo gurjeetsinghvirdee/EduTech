@@ -6,8 +6,10 @@
 .main_container {
     display: flex;
     background: grey;
+    justify-content: space-between;
 }
 
-.navigation .logo {
-    display: inline-flex;
+.navigation {
+    display: flex;
+    margin: 0 25px;
 }
