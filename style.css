@@ -9,5 +9,5 @@
 }
 
 .navigation .logo {
-    display: inline;
+    display: inline-flex;
 }
